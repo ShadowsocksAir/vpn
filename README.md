@@ -19,7 +19,10 @@ btw，因每天时常进行书籍的整理与归纳，还有负责打扫卫生�
 
 ## android和iOS客户端下载
 
-安卓下载：  在此github库里的apk就是
+安卓下载：https://play.google.com/store/apps/details?id=cn.ssh.shadowsockssh
+<br>
+如果手机不支持谷歌商店，可在此github库里下载apk，进行安装使用。
+
 <br>
 iOS下载：   https://itunes.apple.com/us/app/blueskyvpn/id1427257535?mt=8
 
